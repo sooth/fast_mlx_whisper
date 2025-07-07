@@ -56,7 +56,8 @@ mlx_models/
 *.flac
 
 # Output files
-*.txt
+output*.txt
+transcription*.txt
 *.json
 *.log
 
